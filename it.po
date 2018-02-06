@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: com.github.spheras.desktopfolder\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-15 07:44+0100\n"
-"PO-Revision-Date: 2018-02-05 13:29+0100\n"
-"Last-Translator: \n"
-"Language-Team: Andreas Xavier <andreas-xavier@ubuntu-it.org>\n"
-"Language: it\n"
+"POT-Creation-Date: 2018-02-06 01:37+0100\n"
+"PO-Revision-Date: 2018-02-06 16:15+0100\n"
+"Language-Team: andreas-xavier <andreas-xavier@ubuntu-it.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.8.7.1\n"
+"Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it\n"
 
 #. Application Description
 #: src/LanguageText.vala:3
@@ -24,8 +24,8 @@ msgid ""
 "Come back to life your minimalist Desktop \n"
 " Organize files at your Desktop using Panes."
 msgstr ""
-"Riporta in vita la tua Scrivania minimalista \n"
-" Organizza i file sulla tua Scrivania utilizzando dei Riquadri."
+"Riporta in vita la tua Scrivania minimalista \\n\"\n"
+" Organizza i file sulla tua Scrivania utilizzando dei Riquadri"
 
 #. Generic Dialog OK Button
 #: src/LanguageText.vala:5
@@ -301,7 +301,7 @@ msgid ""
 "This action will DELETE the link (just the link).\n"
 "<b>Are you sure?</b>"
 msgstr ""
-"Questa azione ELIMINERÀ il collegamento (soltanto il link).\n"
+"Questa azione ELIMINERÀ il collegamento (solo il link).\n"
 "<b>Sei sicuro?</b>"
 
 #. Item - Change icon dialog message to select an image file
@@ -353,7 +353,7 @@ msgid ""
 "<b>Are you sure?</b>"
 msgstr ""
 "Questa azione ELIMINERÀ la Foto.\n"
-"<b>Sei sicuro?</b>"
+"<b>Sei sicuro?</b>\""
 
 #. desktopfolder menu - create a new Photo
 #: src/LanguageText.vala:144
@@ -402,8 +402,8 @@ msgid ""
 "desktop. This change will require relogin into your system."
 msgstr ""
 "Attivando questa opzione verrà creato un pannello con sfondo trasparente "
-"sulla tua Scrivania. Per questo cambiamento è necessario un nuovo accesso al "
-"sistema."
+"sulla tua Scrivania. Per questo cambiamento è necessario un nuovo accesso "
+"al sistema."
 
 #. panel properties - Resolution Strategy title
 #: src/LanguageText.vala:164
@@ -435,5 +435,3 @@ msgstr "Scala"
 #: src/LanguageText.vala:172
 msgid "Store"
 msgstr "Mantieni"
-
-#Tested with eOS Loki + com.github.spheras.desktopfolder_1.0.5 on 5th Feb 2018; everything seems OK
